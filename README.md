@@ -5,7 +5,7 @@ A simple apps to find a restaurant
 ### 1. Clone the project
 
 ### 2. Installation
-on terminal, type command belod
+on terminal, type command below
 ```
 $ npm install
 ```
@@ -20,6 +20,6 @@ for build app
 $ npm run build
 ```
 
-### 4. Open on http://localhost:8000
+### 4. Open on http://localhost:8080
 
 ##### Enjoy.
