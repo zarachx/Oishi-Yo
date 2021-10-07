@@ -3,6 +3,10 @@ A simple apps to find a restaurant
 
 
 ### 1. Clone the project
+```
+$ git clone https://github.com/zarachx/Oishi-Yo.git
+```
+or fork this repository and submit PR
 
 ### 2. Installation
 on terminal, type command below
