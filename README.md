@@ -14,16 +14,22 @@ on terminal, type command below
 $ npm install
 ```
 
-### 3. Start project
-for development
+### 3. Development
 ```
 $ npm run start-dev
 ```
-for build app
+then open app on http://localhost:8081/index.html
+
+### 4. Production
+first build the app
 ```
 $ npm run build
 ```
+running build app
+```
+$ npm run start
+```
 
-### 4. Open on http://localhost:8080
+then open app on http://localhost:8081/index.html
 
 ##### Enjoy.
