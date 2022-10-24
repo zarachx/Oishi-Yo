@@ -1,8 +1,16 @@
 const sum = (a, b) => a + b;
+const multiplication = (a, b) => a * b;
 
 describe('A Sample Test for Sum', () => {
   it('should return a + b value', () => {
     expect(sum(2, 3))
       .toEqual(5);
+  });
+});
+
+describe('A Sample Test for Multiplication', () => {
+  it('should return a * b value', () => {
+    expect(multiplication(2, 3))
+      .toEqual(6);
   });
 });
