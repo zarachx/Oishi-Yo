@@ -14,3 +14,10 @@ describe('A Sample Test for Multiplication', () => {
       .toEqual(6);
   });
 });
+
+describe('A Sample Test for Multiplication 2', () => {
+  it('should return a * b value', () => {
+    expect(multiplication(5, 5))
+      .toEqual(25);
+  });
+});
