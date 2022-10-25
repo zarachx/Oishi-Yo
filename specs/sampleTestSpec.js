@@ -21,3 +21,9 @@ describe('A Sample Test for Multiplication 2', () => {
       .toEqual(25);
   });
 });
+
+describe('A Sample Test for Multiplication 3', () => {
+  it('should return a * b value', () => {
+    expect(multiplication(10, 6)).toBe(60);
+  });
+});
