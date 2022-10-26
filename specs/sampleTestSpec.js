@@ -27,3 +27,15 @@ describe('A Sample Test for Multiplication 3', () => {
     expect(multiplication(10, 6)).toBe(60);
   });
 });
+
+describe('A Sample Test for Multiplication 4', () => {
+  it('should return a * b value', () => {
+    expect(multiplication(10, 10)).toBe(100);
+  });
+});
+
+describe('A Sample Test for Multiplication 5', () => {
+  it('should return a * b value', () => {
+    expect(multiplication(20, 20)).toBe(400);
+  });
+});
